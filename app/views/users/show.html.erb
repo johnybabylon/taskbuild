@@ -1,0 +1,12 @@
+<%= @user.name %>
+
+<% if @user.tasks.empty? %>
+    <p>There are no tasks assigned</p>
+<% else %>
+  <%  @user.tasks.each do |user| %>
+      <li>
+        <%= link_to user.name, user %>
+      </li>
+  <% end %>
+
+<% end %>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="494018920">
+    <data-source source="LOCAL" name="Rails taskbuild: development" uuid="ddc2d28b-4465-4b46-9b63-d2de90104a68">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:taskbuild_development</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails taskbuild: test" uuid="7cba9992-299d-40bc-b89f-28c0edc76f7d">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:taskbuild_test</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails taskbuild: production" uuid="37700ab1-368a-424d-937c-146f6772f51b">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:taskbuild_production</jdbc-url>
+      <user-name>taskbuild</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddffedfebdff9dfe1dfe8dfffdfe3dfe6dfeedff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
